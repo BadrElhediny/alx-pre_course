@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-another readme fot oxo1-git
+another readme for oxo1-git
 =======
 My first readme
 README update from github.comm
